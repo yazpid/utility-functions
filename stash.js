@@ -1,0 +1,3 @@
+function checkStash() {
+    return "stash"
+}
