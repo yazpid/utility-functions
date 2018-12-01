@@ -1,2 +1,6 @@
-.idea/*
-.idea/workspace.xml
+/IDE
+.idea/
+.vscode/
+/COMMON
+node_modules/
+dist/
