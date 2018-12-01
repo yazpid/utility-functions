@@ -1,3 +1,3 @@
 function checkStash() {
-    return "stash"
+    return "stashh"
 }
