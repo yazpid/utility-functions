@@ -3,5 +3,5 @@ function random() {
     return Math.random() *10;
 }
 function test() {
-    return "test"
+    return "xxxx"
 }
