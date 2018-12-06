@@ -5,3 +5,8 @@ function random() {
 function test() {
     return "testttt"
 }
+
+
+function rebase() {
+    console.log("rebase");
+}
